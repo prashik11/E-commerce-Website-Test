@@ -1,0 +1,10 @@
+2024-10-30 18:58:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Prashik\eclipse-workspace\RealTimeProject\testNG\testng.xml
+
+2024-10-30 18:58:43 INFO  TC01_Account_Register:26 - First name entered
+2024-10-30 18:58:43 INFO  TC01_Account_Register:28 - last name entered
+2024-10-30 18:58:44 INFO  TC01_Account_Register:30 - Email entered
+2024-10-30 18:58:44 INFO  TC01_Account_Register:32 - Password entered
+2024-10-30 18:58:55 INFO  TC01_Account_Register:52 - Test Case Passed
+2024-10-30 18:58:58 INFO  TC02_Login:26 - Email entered
+2024-10-30 18:58:58 INFO  TC02_Login:28 - Password entered
